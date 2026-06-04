@@ -32,4 +32,4 @@ and local markets.
 - KPI reporting
 
 ## Dashboard Preview
-![Sales Performance Dashboard](sales_dashboard.png)
+![Sales Performance Dashboard](sales_dashboard.jpg)
